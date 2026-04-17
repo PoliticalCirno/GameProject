@@ -403,8 +403,8 @@ Transform:
   m_GameObject: {fileID: 1138449907}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.53, y: 6.0973, z: 0.26}
-  m_LocalScale: {x: 0.37739, y: 12.1947, z: 30.667}
+  m_LocalPosition: {x: 10.13, y: 6.0973, z: 5.4218}
+  m_LocalScale: {x: 0.37739, y: 12.1947, z: 20.344488}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -635,7 +635,7 @@ Light:
   m_RenderingLayerMask: 1
   m_Lightmapping: 2
   m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 13.131805, y: 7.3009973}
+  m_AreaSize: {x: 11.171026, y: 7.3009973}
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
@@ -657,7 +657,7 @@ Transform:
   m_GameObject: {fileID: 1581422712}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 6.064, y: 2.56219, z: 12.927}
+  m_LocalPosition: {x: 3.8, y: 2.56219, z: 12.927}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -950,9 +950,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17c085fd565cb6478fdd6b83dd6dcaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCMovement
-  agent: {fileID: 1778256754}
-  waypoints:
-  - {fileID: 0}
 --- !u!1 &1865405447
 GameObject:
   m_ObjectHideFlags: 0
@@ -1252,7 +1249,7 @@ Transform:
   m_GameObject: {fileID: 2027976101}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.3123894, y: 0, z: -8.50155}
+  m_LocalPosition: {x: 0.69, y: 0, z: -8.50155}
   m_LocalScale: {x: 67.69, y: 1, z: 56.35089}
   m_ConstrainProportionsScale: 0
   m_Children: []
